@@ -1,0 +1,18 @@
+## What is a database index?
+
+In this module, we will look into index access methods and how indexes enable efficient table access by attribute search keys. We first discuss database indexes and their types broadly.
+
+### BFT
+```{r, echo=FALSE, eval=TRUE}
+htmltools::includeHTML('exthash.html')
+```
+
+### LHT
+```{r, echo=FALSE, eval=TRUE}
+htmltools::includeHTML('lhthash.html')
+```
+
+### BFT
+```{r, echo=FALSE, eval=TRUE}
+htmltools::includeHTML('bloom_filter.html')
+```
