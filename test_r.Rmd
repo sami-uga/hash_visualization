@@ -1,18 +1,28 @@
-## What is a database index?
+## Database Algorithms Visualization
 
-In this module, we will look into index access methods and how indexes enable efficient table access by attribute search keys. We first discuss database indexes and their types broadly.
+Works done during Fall 2021, as a research assistant at Human-Data Interaction Lab, NYU Abu Dhabi.
 
-### BFT
+
+### Extendible Hashing
+
+  
+  
 ```{r, echo=FALSE, eval=TRUE}
 htmltools::includeHTML('exthash.html')
 ```
 
-### LHT
+### Linear Hashing
+
+  
+  
 ```{r, echo=FALSE, eval=TRUE}
 htmltools::includeHTML('lhthash.html')
 ```
 
-### BFT
+### Bloom Filter
+
+  
+
 ```{r, echo=FALSE, eval=TRUE}
 htmltools::includeHTML('bloom_filter.html')
 ```
