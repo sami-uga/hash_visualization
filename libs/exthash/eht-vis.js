@@ -1,6 +1,6 @@
 function EHT_vis() {
   // declare bucket & EHT class
-  const bucketSize = 4;
+  const bucketSize = 3;
 
   class Bucket {
     constructor(localDepth = 1) {
